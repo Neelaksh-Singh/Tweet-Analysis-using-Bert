@@ -1,2 +1,12 @@
 # Tweet-Analysis-using-Bert
-Example of using Transformers and Ktrain
+<b> Recommended to use GPU</b>
+
+One can use Kaggle or Colab notebook to run the file.
+
+## Some useful links
+
+[KTrain](https://github.com/amaiya/ktrain)
+
+[Kaggle Notebook](https://www.kaggle.com/neelakshsingh/twitter-sentiment-analysis)
+
+
